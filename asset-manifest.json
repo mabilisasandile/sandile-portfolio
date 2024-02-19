@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sandile-portfolio/static/css/main.8f6de3d8.css",
+    "main.js": "/sandile-portfolio/static/js/main.9c53b402.js",
+    "static/media/img6.jpg": "/sandile-portfolio/static/media/img6.7ca35abb31487542e586.jpg",
+    "static/media/img7.jpg": "/sandile-portfolio/static/media/img7.c444cc83d79c27be06ec.jpg",
+    "static/media/edutech_app.png": "/sandile-portfolio/static/media/edutech_app.cd85c29c0bcd5831a79d.png",
+    "static/media/img1.jpg": "/sandile-portfolio/static/media/img1.79f2a078b20cec3fd475.jpg",
+    "static/media/img5.jpg": "/sandile-portfolio/static/media/img5.11f5fc9ffb28775a8c0b.jpg",
+    "static/media/img3.jpg": "/sandile-portfolio/static/media/img3.8e8072ffd35b1e1031c9.jpg",
+    "index.html": "/sandile-portfolio/index.html",
+    "main.8f6de3d8.css.map": "/sandile-portfolio/static/css/main.8f6de3d8.css.map",
+    "main.9c53b402.js.map": "/sandile-portfolio/static/js/main.9c53b402.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f6de3d8.css",
+    "static/js/main.9c53b402.js"
+  ]
+}
