@@ -47,5 +47,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://my-node-app-qfg5.onrender.com"
+  "proxy": "https://my-node-app-qfg5.onrender.com",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
