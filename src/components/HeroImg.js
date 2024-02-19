@@ -12,7 +12,6 @@ const HeroImg = () => {
       <div className="content">
         <p>HI! I'M SANDILE MABILISA.</p>
         <h1>FULL STACK SOFTWARE DEVELOPER</h1>
-
         <div>
           <Link to="/project" className="btn">PROJECTS</Link>
           <Link to="/contact" className="btn btn-light">CONTACT</Link>
