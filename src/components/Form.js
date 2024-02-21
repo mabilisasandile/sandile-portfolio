@@ -104,6 +104,7 @@ const Form = () => {
     } catch (error) {
       console.log("Failed to submit form:", error);
       Swal.fire('Error!', 'Something went wrong. Please check your internet connection and try again.', 'error');
+      setLoading(false);
     }
   }
 
